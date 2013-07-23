@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <title>New Website | Home</title>
+
+   <link rel="stylesheet" type="text/css" href="bootstrap.css">
+
+  </head>
+
+<body>
+
+   <div class="container">
+
+    <h1>Arts Activity Stations</h1>
+     
+      <div class="navbar">
+
+  <div class="navbar-inner">
+
+  <a class="brand" href="#">Englewood Arts Festival</a>
+
+   <ul class="nav">
+ 
+    <li><a href="#">About</a></li>
+
+    <li> <a href="#"> workshops</a></li>
+
+    <li class="active"><a href="#">Activities</a></li>
+
+    <li> <a href="#">Performances</a></li>
+
+    </ul>
+
+   </div>
+
+   </div>
+
+
+
+    </ul>
+
+     </div>
+
+     </div>
+     
+    <div class="row">
+
+   <div class="span2">
+
+   <h3>Kite Making</h3>
+
+      </div>
+
+<div class="container">
+<div class="row">
+<div class="span2">
+
+    <h3>Inferno Mobile Recording Studio</h3>
+
+    </div>
+    </div>
+    </div>
+
+<div class="container">
+ <div class="row">
+<div class="span2">
+
+    <h3>Theater Games</h3>
+
+    </div>
+    </div>
+    </div>
+ 
+<div class="container">  
+  <div class="row">
+<div class="span2">
+
+    <h3>Chalk Cubes</h3>
+
+    </div>
+    </div>
+   </div>
+
+ 
+  <div class="row">
+ <div class="span2"> 
+
+    <h3>Screen Printing</h3>
+
+   </div>
+
+   </div>
+
+  <div class="row">
+ <div class="span2">
+
+    <h3>Face Painting</h3>
+
+      </div>
+      </div>
+
+     
+
+</body>
+
+</html>
