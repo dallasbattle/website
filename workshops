@@ -1,0 +1,91 @@
+<!Doctype html>
+
+<html>
+
+  <head>
+
+    <title>Community Workshops |Home</title>
+
+    <link rel="stylesheet" type="text/css" href="bootstrap.css">
+
+  </head>
+
+  <body>
+
+    <div class="container">
+
+    <h1>Community Workshops</h1>
+
+    <div class="navbar">
+
+     <div class="navbar-inner">
+
+     <a class="brand" href="#">Englewood Arts Festival</a>
+
+   <ul class="nav">
+
+<li> <a href="#">About</a></li>
+<li> <a href="#">Performances</a></li>
+
+<li class="active"><a href="#"> workshops</a></li>
+
+<li> <a href="#">Activities</a></li>
+
+
+</ul>
+
+ </div>
+
+</div>
+
+
+     </div>
+
+    </div>
+
+  <div class="row">
+
+    <div class="span4">
+
+      <h3>Yoga Person(yoga)</h3>
+
+  </div>
+  
+  <div class="row">
+
+    <div class="span4">
+
+      <h3>Sage Collection(healing & self care)</h3>
+
+  </div>
+  
+  <div class="row">
+
+    <div class="span4">
+
+      <h3>Emergency People(managing grief & trauma)</h3>
+
+  </div>
+  
+  <div class="row">
+
+    <div class="span4">
+
+      <h3>Growing Home(food as medicine)</h3>
+
+  </div>
+  
+  <div class="row">
+
+    <div class="span4">
+
+      <h3>Peace Circle(CSOSS,to be confirmed)</h3>
+  
+
+  </div>
+
+   </div>
+
+  </body>
+
+<html>
