@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html>
+
+   <head>
+
+     <title> Englewood Arts Festival | Home</title>
+
+     <link rel="stylesheet" type="text/css" href="bootstrap.css">
+
+   </head>
+
+   <body>
+
+     <div class="container">
+
+     <h1>Main Stage Performances</h1>
+
+     
+     <div class="navbar">
+
+      <div class="navbar-inner">
+
+       <a class="brand" href="#">Englewood Arts Festival</a>
+
+      <ul class="nav">
+
+       <li> <a href="#">About</a></li>
+
+       <li> <a href="#"> workshops</a></li>
+
+       <li> <a href="#">Activities</a></li>
+
+       <li class="active"> <a href="#">Performances</a></li>
+
+      </ul>
+
+      </div>
+
+      </div>
+
+       </ul>
+
+      </div>
+
+      </div>
+
+     <div class="row">
+
+      <div class="span3">
+
+        <h3>Chicago Childern Chior</h3>
+
+       </div>
+
+       <div class="span3">
+  
+         <h3>So Fresh</h3>
+
+       </div>
+
+       <div class="span3">
+
+         <h3>DJ Dap</h3>
+
+         <div class="span3">
+
+            <h3>TTP</h3>
+
+             </div>
+
+            </div>
+
+          </div>
+ 
+         </div>
+
+       </div>
+
+   </body>
+
+</html>
