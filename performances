@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <title>New Website | About</title>
+
+    <link rel="stylesheet" type="text/css" href="bootstrap.css">
+
+  </head>
+
+  <body>
+
+   <h1>Youth Performances w/ DJ Dap</h1> 
+
+    <div class="container-fluid">
+
+     <div class="navbar">
+
+      <div class="navbar-inner">
+
+       <ul class="nav">
+    
+        <li><a href="index.html">Home</a></li>
+
+        <li><a href="about.html">About</a></li>
+   
+        <li class="active"><a href="performances.html">Performances</a></li>
+
+       </ul>
+
+      </div>
+
+     </div>
+
+   <div class="row">
+
+    <div class="span9">
+
+     <h3>TTP</h3>
+
+     <p>I'm thinking of a master plan, naw I'm lying shawty I'm a mind.</p>
+
+     <img src=englewoodcodes.jpg style="max-width:65%" />
+
+    </div>
+
+    <div class="span9">
+
+     <h3>Corey</h3>
+
+     <p>Dallas isn't a boss, I am.</p>
+
+     <img src=englewoodcodes.jpg style="max-width:65%" />
+
+   </div>
+
+   <div class="span9">
+
+     <h3>All-Star</h3>
+
+     <a href="http://www.allstars.org/content/all-stars-project-chicago">All-Star</a>
+
+     <img src=allstars.jpg style="max-width:65%" />
+
+   </div>
+
+   <div class="span9">
+
+     <h3>Kuumba Lynx</h3>
+
+    <a href="http://www.kuumbalynx.org">Kuumba Lynx</a>
+ 
+    <img src=kumba.jpg style="max-width:65%" />
+
+   </div>
+
+     <div class="span9">
+
+     <h3>YCA</h3>
+
+    <p>Give me a break!</p>
+ 
+    <img src=yca2.jpg style="max-width:80%" />
+
+   </div>
+
+     <div class="span9">
+
+     <h3>Peace Center</h3>
+
+    <p>Give me a break!</p>
+ 
+    <img src=englewoodcodes.jpg style="max-width:65%" />
+
+
+  </body>
+
+</html> 
